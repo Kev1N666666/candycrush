@@ -27,6 +27,8 @@ int main(int argc, char *argv[])
     int prescore;
     int score=0;
 
+    printf("hellooooooo I am dai");
+
     if(candytype>6 || candytype<2)
         return 0;
 
