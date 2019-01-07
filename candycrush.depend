@@ -330,3 +330,45 @@
 1546782223 c:\users\user\desktop\candycrush\eliminatecandy.h
 	"map.h"
 
+1546849193 source:d:\計程\candycrush\eliminatecandy.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"eliminatecandy.h"
+
+1546849193 d:\計程\candycrush\eliminatecandy.h
+	"map.h"
+
+1546849193 d:\計程\candycrush\map.h
+	"rankData.h"
+
+1546849193 d:\計程\candycrush\rankdata.h
+
+1546849193 source:d:\計程\candycrush\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"interface.h"
+
+1546849193 d:\計程\candycrush\interface.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	"map.h"
+
+1546849193 source:d:\計程\candycrush\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"map.h"
+	"interface.h"
+	"eliminatecandy.h"
+
+1546849193 source:d:\計程\candycrush\map.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"map.h"
+	"rankData.h"
+	"eliminatecandy.h"
+
