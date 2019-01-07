@@ -9,12 +9,19 @@
 /**Please read Readme.txt**/
 
 /**
- * contribute
+* contribute
          kevin Wu
+<<<<<<< HEAD
          Liang Cheng
 
 
 
+=======
+ 
+*
+* 
+ 
+>>>>>>> kevin
  **/
 int main(int argc, char *argv[])
 {
