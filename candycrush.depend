@@ -372,3 +372,37 @@
 	"rankData.h"
 	"eliminatecandy.h"
 
+1546850546 source:c:\users\superuser\desktop\candycrush\eliminatecandy.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"eliminatecandy.h"
+
+1546850546 c:\users\superuser\desktop\candycrush\eliminatecandy.h
+	"map.h"
+
+1546850546 c:\users\superuser\desktop\candycrush\map.h
+	"rankData.h"
+
+1546850546 c:\users\superuser\desktop\candycrush\rankdata.h
+
+1546850546 source:c:\users\superuser\desktop\candycrush\interface.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"interface.h"
+
+1546850546 c:\users\superuser\desktop\candycrush\interface.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_image.h>
+	"map.h"
+
+1546850546 source:c:\users\superuser\desktop\candycrush\map.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"map.h"
+	"rankData.h"
+	"eliminatecandy.h"
+

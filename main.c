@@ -11,17 +11,9 @@
 /**
 * contribute
          kevin Wu
-<<<<<<< HEAD
          Liang Cheng
-
-
-
-=======
- 
-*
-* 
- 
->>>>>>> kevin
+        Dai Chen
+        Xiang Jun Yang
  **/
 int main(int argc, char *argv[])
 {
@@ -33,6 +25,8 @@ int main(int argc, char *argv[])
     int *swap1,*swap2;
     int prescore;
     int score=0;
+
+    printf("hellooooooo I am dai");
 
     if(candytype>6 || candytype<2)
         return 0;
@@ -58,6 +52,7 @@ int main(int argc, char *argv[])
 
     mapPrint(Map,turn,score,ROW,COL);
     interfaceShow(&interface,Map,COL,ROW);
+    printf("this is Rxiang\n");
 
     while(turn != 0 && score < target)
     {
