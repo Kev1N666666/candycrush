@@ -12,7 +12,7 @@
  * contribute
          kevin Wu
          Liang Cheng
-
+        Dai Chen
 
 
  **/
@@ -26,6 +26,8 @@ int main(int argc, char *argv[])
     int *swap1,*swap2;
     int prescore;
     int score=0;
+
+    printf("hellooooooo I am dai");
 
     if(candytype>6 || candytype<2)
         return 0;
