@@ -13,6 +13,7 @@
          kevin Wu
          Liang Cheng
         Dai Chen
+        Xiang Jun Yang
  **/
 int main(int argc, char *argv[])
 {
