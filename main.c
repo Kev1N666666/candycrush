@@ -8,6 +8,14 @@
 
 /**Please read Readme.txt**/
 
+/**
+* contribute
+         kevin Wu
+ 
+*
+* 
+ 
+ **/
 int main(int argc, char *argv[])
 {
     int turn=20;//strtol(argv[1], NULL, 10);
