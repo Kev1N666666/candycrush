@@ -9,12 +9,10 @@
 /**Please read Readme.txt**/
 
 /**
- * contribute
+* contribute
          kevin Wu
          Liang Cheng
         Dai Chen
-
-
  **/
 int main(int argc, char *argv[])
 {
@@ -53,6 +51,7 @@ int main(int argc, char *argv[])
 
     mapPrint(Map,turn,score,ROW,COL);
     interfaceShow(&interface,Map,COL,ROW);
+    printf("this is Rxiang\n");
 
     while(turn != 0 && score < target)
     {
